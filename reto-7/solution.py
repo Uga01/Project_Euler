@@ -12,4 +12,4 @@ def prime_number(n):
             number += 1
     return number - 1
 
-print(prime_number(10001)) # 13
+print(prime_number(10001)) # 104743
